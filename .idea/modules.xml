@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/curso.iml" filepath="$PROJECT_DIR$/.idea/modules/curso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Primeros pasos/Nociones de la POO/task1/curso.Primeros_pasos-Nociones_de_la_POO-task1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Primeros pasos/Nociones de la POO/task1/curso.Primeros_pasos-Nociones_de_la_POO-task1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/curso.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/curso.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/curso.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/curso.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/curso.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/curso.util.test.iml" />
+    </modules>
+  </component>
+</project>

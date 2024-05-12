@@ -1,0 +1,9 @@
+type: marketplace
+title: Laboratorio de computadoras electrónicas
+language: Spanish
+summary: Este es un curso introductorio e interactivo al lenguaje de programación
+  Java para los alumnos de la materia "Laboratorio de computadroas electrónicas" de
+  la EPET 14.
+programming_language: Java
+content:
+  - Primeros pasos
