@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Primeros_pasos-El_primer_programa-Hola_mundo" external.linked.project.path="$MODULE_DIR$/../../../../../Primeros pasos/El primer programa/Hola mundo" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="curso" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Primeros pasos/El primer programa/Hola mundo">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Primeros pasos/El primer programa/Hola mundo/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Primeros pasos/El primer programa/Hola mundo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Primeros pasos/El primer programa/Hola mundo/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

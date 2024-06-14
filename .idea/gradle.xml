@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -10,6 +11,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Primeros pasos/El primer programa/Definición de una clase" />
+            <option value="$PROJECT_DIR$/Primeros pasos/El primer programa/El método main" />
+            <option value="$PROJECT_DIR$/Primeros pasos/El primer programa/Encontrando errores" />
+            <option value="$PROJECT_DIR$/Primeros pasos/El primer programa/Hola mundo" />
+            <option value="$PROJECT_DIR$/Primeros pasos/El primer programa/Salida estándar" />
+            <option value="$PROJECT_DIR$/Primeros pasos/El primer programa/Usando caracteres especiales" />
+            <option value="$PROJECT_DIR$/Primeros pasos/Nociones de POO/Clases y objetos" />
+            <option value="$PROJECT_DIR$/Primeros pasos/Nociones de POO/Java y la programación orientada a objetos" />
+            <option value="$PROJECT_DIR$/Variables y operaciones/Tipos de datos/Almacenar texto" />
+            <option value="$PROJECT_DIR$/Variables y operaciones/Tipos de datos/Inicializando variables" />
+            <option value="$PROJECT_DIR$/Variables y operaciones/Tipos de datos/Inicializar variables" />
+            <option value="$PROJECT_DIR$/Variables y operaciones/Tipos de datos/Utilización de variables" />
+            <option value="$PROJECT_DIR$/Variables y operaciones/Tipos de datos/Variables y tipos de datos" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
